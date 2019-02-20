@@ -7,7 +7,7 @@
     "sideEffects": false,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/marmelab/react-admin.git"
+        "url": "git+https://github.com/Frans-L/ra-data-graphql-simple.git"
     },
     "bugs": {
         "url": "https://github.com/marmelab/react-admin/issues"
